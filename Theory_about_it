@@ -1,0 +1,34 @@
+# 🚀 Introduction to Node.js
+
+**Node.js** is an **open-source, cross-platform JavaScript runtime environment** that lets you run JavaScript code **outside of the browser**.  
+It is built on **Google Chrome’s V8 JavaScript engine** and is mainly used for building **fast, scalable network applications**.
+
+---
+
+##  Why Node.js?
+- Traditionally, JavaScript only ran in browsers.  
+- Node.js allows JavaScript to run on the **server side**.  
+- It is lightweight, efficient, and handles **many requests at once**.
+
+---
+
+##  Key Features of Node.js
+1. **Event-Driven & Non-Blocking I/O**  
+   - Uses an **event loop** instead of threads.  
+   - Handles thousands of requests without blocking.  
+
+2. **Single-Threaded but Highly Scalable**  
+   - Runs on a single thread but can manage many connections simultaneously.  
+
+3. **Fast Execution**  
+   - Built on Google’s **V8 engine**, which compiles JS into machine code.  
+
+4. **NPM (Node Package Manager)**  
+   - Largest ecosystem of open-source libraries.  
+   - Easy to install packages and modules.  
+
+---
+
+##  Common Use Cases
+- **Web Servers & APIs** (Express.js, Nest.js)  
+- **Real-time Applications** (chat apps, gaming, collab
