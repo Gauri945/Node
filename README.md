@@ -57,4 +57,4 @@ node index.js
 
 ## 👩‍💻 Author
 
-**Gauri Chauhan**
+*Gauri Chauhan*
